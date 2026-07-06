@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050505,35:111827,70:312E81,100:FFD700&text=Parveen%20Kumar&fontColor=F8FAFC&fontSize=64&fontAlignY=36&desc=Crafting%20Web%20Experiences%20With%20Code&descSize=20&descAlignY=58&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=290&color=0:030712,35:111827,70:1E1B4B,100:B45309&text=Parveen%20Kumar&fontColor=F9FAFB&fontSize=66&fontAlignY=36&desc=Building%20My%20Journey%20Through%20Code&descSize=21&descAlignY=58&animation=twinkling" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2600&pause=800&color=FACC15&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Parveen+Kumar;Future+MERN+Stack+Developer+%F0%9F%9A%80;I+Build+Modern+Web+Projects+%F0%9F%92%BB;Learning+Today+%E2%86%92+Building+Tomorrow+%E2%9A%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2600&pause=900&color=FACC15&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Parveen+Kumar;Web+Development+Learner+%F0%9F%92%BB;Future+MERN+Stack+Developer+%F0%9F%9A%80;Learning+Today+%E2%86%92+Building+Tomorrow+%E2%9A%A1" />
 
 </div>
 
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=850&lines=Clean+Code+%7C+Creative+UI+%7C+Real+Projects;Frontend+Today+%E2%86%92+Full+Stack+Soon;Consistency+Beats+Motivation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Clean+Code+%7C+Creative+UI+%7C+Real+Projects;JavaScript+Practice+Mode+%F0%9F%94%A5;Frontend+Now+%E2%86%92+Full+Stack+Soon" />
 
 </div>
 
@@ -47,18 +47,18 @@ const parveen = {
   role: "Web Development Learner",
   goal: "Become a skilled MERN Stack Developer",
   learning: ["HTML", "CSS", "JavaScript", "React.js", "Node.js", "MongoDB"],
-  focus: "Building premium and useful web projects",
+  focus: "Building real-world web projects",
   mindset: "Learn daily. Build consistently. Improve always."
 };
 ```
 
 ---
 
-## 🚀 Developer Journey
+## 🚀 My Learning Journey
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2300&pause=800&color=FACC15&center=true&vCenter=true&width=900&lines=HTML+%26+CSS+%E2%9C%85;JavaScript+Practice+Mode+%F0%9F%94%A5;React.js+Loading...+%E2%9A%9B%EF%B8%8F;Node.js+%26+Express+Coming+Soon+%F0%9F%9B%A0%EF%B8%8F;MERN+Stack+Developer+In+Progress+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2400&pause=850&color=FACC15&center=true&vCenter=true&width=900&lines=HTML+%26+CSS+%E2%9C%85;JavaScript+Practice+Mode+%F0%9F%94%A5;React.js+Loading...+%E2%9A%9B%EF%B8%8F;Node.js+%26+Express+Coming+Soon+%F0%9F%9B%A0%EF%B8%8F;MERN+Stack+Developer+In+Progress+%F0%9F%9A%80" />
 
 </div>
 
@@ -90,41 +90,36 @@ const parveen = {
 ## 🎯 Current Focus
 
 - ⚡ JavaScript logic strong karna  
-- 🎨 Premium UI design improve karna  
+- 🎨 Clean aur premium UI banana  
 - ⚛️ React.js deeply seekhna  
-- 🧩 Components aur props practice karna  
 - 🌐 API integration samajhna  
-- 🚀 Real-world projects build karna  
+- 🛠️ Real-world projects build karna  
+- 🚀 MERN Stack journey complete karna  
 
 ---
 
-## 📂 Project Roadmap
+## 📂 Project Showcase
 
-| Level | Project Type | Status |
-|---|---|---|
-| 01 | HTML & CSS Projects | ✅ Practicing |
-| 02 | JavaScript Mini Projects | 🔥 Building |
-| 03 | React UI Projects | ⏳ Coming Soon |
-| 04 | Backend APIs | ⏳ Coming Soon |
-| 05 | Full MERN Apps | 🚀 Loading |
+<!--
+Project add karne ka format:
+
+| [Project Name](GitHub repo link) | Short description | Tech stack | [Live Demo](live link) |
+
+Example:
+| [Calculator App](https://github.com/parveen-15/calculator-app) | Basic calculator with clean UI | HTML, CSS, JS | [Live](https://parveen-15.github.io/calculator-app/) |
+-->
+
+| Project | Description | Tech Stack | Live Demo |
+|---|---|---|---|
+| Coming Soon | Real projects will be added here after upload | — | — |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Real GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=parveen-15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FACC15&icon_color=FACC15&text_color=F8FAFC" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=parveen-15&theme=tokyonight&hide_border=true&background=0D1117&ring=FACC15&fire=F97316&currStreakLabel=FACC15" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parveen-15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FACC15&text_color=F8FAFC" />
+<img width="75%" src="https://streak-stats.demolab.com?user=parveen-15&theme=dark&hide_border=true&background=0D1117&ring=FACC15&fire=F97316&currStreakLabel=FACC15&sideLabels=F8FAFC&dates=38BDF8" />
 
 </div>
 
@@ -134,7 +129,7 @@ const parveen = {
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=parveen-15&theme=github-compact&bg_color=0D1117&color=FACC15&line=38BDF8&point=F8FAFC&area=true&hide_border=true&custom_title=Parveen%20Kumar's%20Activity%20Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=parveen-15&bg_color=0D1117&color=FACC15&line=38BDF8&point=F8FAFC&area=true&hide_border=true&custom_title=Parveen%20Kumar's%20GitHub%20Contribution%20Graph" />
 
 </div>
 
@@ -162,12 +157,12 @@ const parveen = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=900&color=FACC15&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+profile+%F0%9F%92%9B;Keep+Learning+%E2%9A%A1+Keep+Building+%F0%9F%9A%80;Small+Steps+Daily+%E2%86%92+Big+Results+Later+%F0%9F%94%A5" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2600&pause=900&color=FACC15&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+profile+%F0%9F%92%9B;Keep+Learning+%E2%9A%A1+Keep+Building+%F0%9F%9A%80;Small+Steps+Daily+%E2%86%92+Big+Results+Later+%F0%9F%94%A5" />
 
 </div>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:FFD700,35:312E81,70:111827,100:050505&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=155&color=0:B45309,35:1E1B4B,70:111827,100:030712&section=footer&animation=twinkling" />
 
 </div>
