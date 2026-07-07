@@ -161,7 +161,7 @@ Example:
 
 </div>
 
-<div align="center">
+<div align="cente">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=155&color=0:B45309,35:1E1B4B,70:111827,100:030712&section=footer&animation=twinkling" />
 
